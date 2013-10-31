@@ -1,0 +1,11 @@
+{
+"manager":{
+			"routers":{
+				"/":"index",
+				"/index":"index",
+				"/postUrl":"post_json"
+			},
+			"port":80
+		  },
+"masterTitle":"postDataTitle"
+}
